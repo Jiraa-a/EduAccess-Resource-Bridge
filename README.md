@@ -9,10 +9,10 @@ At the same time, many underprivileged students struggle to access these resourc
 ### Proposed Solution
 EduAccess Resource Bridge provides a structured and accessible digital platform where users can:
 
-📚 Donate unused educational materials
-💰 Sell or exchange academic resources at affordable prices
-🔍 Request specific learning materials
-🤝 Connect directly with peers in a secure environment
+- 📚 Donate unused educational materials
+- 💰 Sell or exchange academic resources at affordable prices
+- 🔍 Request specific learning materials
+- 🤝 Connect directly with peers in a secure environment
 
 By facilitating direct peer-to-peer interaction, the platform ensures transparency, accessibility, and efficient resource redistribution.
 
